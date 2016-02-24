@@ -16,12 +16,16 @@
 		<dict>
                     <key>kind</key>
                     <string>display-image</string>
+		    <key>needs-shine</key>
+		    <true/>
                     <key>url</key>
                     <string>http://202.98.20.183:8002/upload/1001.png</string>
                 </dict>
 		<dict>
                     <key>kind</key>
                     <string>full-size-image</string>
+  		    <key>needs-shine</key>
+		    <true/>
                     <key>url</key>
                     <string>http://202.98.20.183:8002/upload/1002.png</string>
                 </dict>
