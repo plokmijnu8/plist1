@@ -35,7 +35,7 @@
                 <key>bundle-identifier</key>
     <string>com.wwjt.wwydxc</string>
                 <key>bundle-version</key>
-                <string>00.00.1004</string>
+                <string>1.0</string>
                 <key>kind</key>
                 <string>software</string>
   		<key>subtitle</key>
