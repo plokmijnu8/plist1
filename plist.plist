@@ -1,0 +1,46 @@
+﻿<?xml version='1.0' encoding='UTF-8'?><!DOCTYPE plist PUBLIC '-//Apple//DTD PLIST 1.0//EN' 'http://www.apple.com/DTDs/PropertyList-1.0.dtd'><plist version='1.0'>
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>assets</key>
+			<array>
+				<dict>
+					<key>kind</key>					
+					<string>software-package</string>
+					<key>url</key>
+					<string>https://fs.appcan.cn/uploads/2016/02/23//11480146_iphone_00.00.1004_000_18553_0.ipa</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>display-image</string>
+					<key>needs-shine</key>
+					<true/>
+					<key>url</key>
+					<string>http://dashboard.appcan.cn/upload/image/201601/22/32a2d8de01c120920c4ff01f0767d7.png</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>full-size-image</string>
+					<key>needs-shine</key>
+					<true/>
+					<key>url</key>
+					<string>http://dashboard.appcan.cn/upload/image/201601/22/32a2d8de01c120920c4ff01f0767d7.png</string>
+				</dict>
+			</array>
+			<key>metadata</key>
+			<dict>
+				<key>bundle-identifier</key>
+				<string>com.wwjt.wwydxc</string><key>bundle-version</key>
+				<string>00.00.1004</string>
+				<key>kind</key>
+				<string>software</string>
+				<key>subtitle</key>
+				<string>万维移动学测</string>
+				<key>title</key>
+				<string>万维移动学测</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
