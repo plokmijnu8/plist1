@@ -16,14 +16,16 @@
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
-					
+					<key>needs-shine</key>
+					<true/>
 					<key>url</key>
 					<string>https://raw.githubusercontent.com/plokmijnu8/plist1/master/1001.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
-					
+					<key>needs-shine</key>
+					<true/>
 					<key>url</key>
 					<string>https://raw.githubusercontent.com/plokmijnu8/plist1/master/1001.png</string>
 				</dict>
@@ -36,9 +38,10 @@
 				<string>00.00.1004</string>
 				<key>kind</key>
 				<string>software</string>
-				
+				<key>subtitle</key>
+				<string>万维移动学测</string>
 				<key>title</key>
-				<string>万维移动学测3</string>
+				<string>万维移动学测</string>
 			</dict>
 		</dict>
 	</array>
